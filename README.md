@@ -1,0 +1,1 @@
+The above code utilizes the pix2pix aprroach for generating one MRI sequence from another. Three different approaches are used and three pynb are uploaded for the same. The input required is the merge image of input andd target of size(256,512)
